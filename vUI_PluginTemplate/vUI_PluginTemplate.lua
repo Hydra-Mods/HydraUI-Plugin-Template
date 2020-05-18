@@ -4,8 +4,8 @@ end
 
 local vUI, GUI, Language, Assets, Settings, Defaults = vUIGlobal:get()
 
--- Create a plugin
-local Plugin = vUI:NewPlugin("vUI_PluginTemplate")
+-- Create a plugin object
+local Plugin = vUI:NewPlugin("vUI_PluginTemplate") -- This name must match the plugin folder
 
 -- Set default values if creating new settings
 Defaults["some-value"] = true -- After profiles are loaded, this is accessed with Settings["some-value"]
