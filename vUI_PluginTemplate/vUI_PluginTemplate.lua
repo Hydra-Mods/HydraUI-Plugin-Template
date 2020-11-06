@@ -2,7 +2,7 @@ if (not vUIGlobal) then
 	return
 end
 
-local vUI, GUI, Language, Assets, Settings, Defaults = vUIGlobal:get()
+local vUI, GUI, Language, Media, Settings, Defaults = vUIGlobal:get()
 
 -- Create a plugin object
 local Plugin = vUI:NewPlugin("vUI_PluginTemplate") -- This name must match the plugin folder
