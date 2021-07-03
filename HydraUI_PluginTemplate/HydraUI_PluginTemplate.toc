@@ -1,0 +1,8 @@
+## Interface: 90100
+## Author: YourName
+## Version: 1.00
+## Title: |cFFFFC44DHydra|r|cFFFFFFFFUI|r
+## Notes: A template for a HydraUI plugin
+## RequiredDeps: HydraUI
+
+HydraUI_PluginTemplate.lua

@@ -1,8 +1,0 @@
-## Interface: 90002
-## Author: YourName
-## Version: 1.00
-## Title: |cFFFFC44DvUI|r Plugin Template
-## Notes: A template for a vUI plugin
-## RequiredDeps: vUI
-
-vUI_PluginTemplate.lua
