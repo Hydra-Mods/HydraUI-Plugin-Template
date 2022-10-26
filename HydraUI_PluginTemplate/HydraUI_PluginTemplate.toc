@@ -1,7 +1,7 @@
-## Interface: 90100
+## Interface: 100002
 ## Author: YourName
 ## Version: 1.00
-## Title: |cFFFFC44DHydra|r|cFFFFFFFFUI|r
+## Title: |cFFFFC44DHydra|r|cFFFFFFFFUI|r plugin
 ## Notes: A template for a HydraUI plugin
 ## RequiredDeps: HydraUI
 
